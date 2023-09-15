@@ -5,7 +5,7 @@
 
 https://projeto-summary-kappa.vercel.app
 
-O projeto shorts summary é uma aplicação full stack construída durante a semana de imersão com inteligência artificial da plataforma Rockseat.
+O projeto shorts summary é uma aplicação Full stack construída durante a semana de imersão com inteligência artificial da plataforma Rockseat.
 A aplicação consiste em uma página feita para receber vídeos shorts. Utilizando duas inteligências artificias, uma para extrair texto do áudio e a outra para  resumir o conteúdo.
 Ou seja, logo que a página recebe o vídeo shorts, ela o transforma em áudio, lê o texto e o resume dando os principais assuntos abordados no vídeo.
 
