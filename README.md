@@ -21,8 +21,7 @@ Ou seja, logo que a página recebe o vídeo shorts, ela o transforma em áudio, 
 - HTML / CSS / JS
 
 ## Biblioteca de I.A
--Whisper
--Bart
+-Whisper / Bart
 
 
 # Autor
